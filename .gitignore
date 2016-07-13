@@ -18,3 +18,4 @@ nbproject/*
 application/cache/*
 public/upload/__cache/*
 public/upload/*
+public/smarty/*
